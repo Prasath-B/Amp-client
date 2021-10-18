@@ -55,11 +55,11 @@
 
   .search {
     height: 45px;
-    margin-right: 5px;
+    margin-right: 0px;
   }
   .post-button {
-    margin-left: 20px;
-    margin-top: 0px;
+    margin-left: 0px;
+    margin-top: 30px;
   }
 }
 @media screen and (max-width: 950px) {
@@ -77,6 +77,6 @@
   }
   .post-button {
     margin-left: 20px;
-    margin-top: 0px;
+    margin-top: px;
   }
 }
